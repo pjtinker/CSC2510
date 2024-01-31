@@ -19,7 +19,7 @@ public class DailyGrind {
              try {
                 Thread.sleep(60000);
             } catch (InterruptedException e) {
-                // ignore
+                // ignore the exception
             )
 
         }
